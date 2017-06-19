@@ -43,6 +43,7 @@ $(document).ready(function() {
             }
         }
     });
+    /*
     if($(location.href.split("#")[1])) {
         var target = $('#'+location.href.split("#")[1]);
         if (target.length) {
@@ -51,6 +52,7 @@ $(document).ready(function() {
             }, 1);
         }
     }
+    */
     $('.right-nav[data-spy=affix]').affix({
         offset: {
             top: affixOffset - (affixedHeight-20)
