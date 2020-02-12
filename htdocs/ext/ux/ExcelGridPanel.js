@@ -80,7 +80,7 @@ Ext.define('My.grid.ExcelGridPanel', {
             var gridEl = this.getEl();
             var el = Ext.DomHelper.append(gridEl, {
                 tag: "a",
-                download: title + "-" + Ext.Date.format(new Date(), 'Y-m-d Hi') + '.xml',
+                download: title + "-" + Ext.Date.format(new Date(), 'Y-m-d Hi') + '.xlsx',
                 href: location
             });
  
