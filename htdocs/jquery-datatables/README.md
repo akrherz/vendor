@@ -3,3 +3,4 @@ Additional things included with [download](https://datatables.net/download/index
   - FixedHeader
   - Responsive
   - Select
+  - DateTime
