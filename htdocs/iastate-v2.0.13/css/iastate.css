@@ -6901,7 +6901,7 @@ body {
 }
 
 .navbar-site .wordmark-isu {
-  background-image: url("https://cdn.theme.iastate.edu/img/isu.svg");
+  background-image: url("/vendor/img/isu.svg");
   background-repeat: no-repeat;
   background-size: 100%;
   color: transparent;
